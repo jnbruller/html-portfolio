@@ -1,0 +1,5 @@
+/* Style de bordure lors de la section des couleurs pour les images de miniatures */
+
+.bordure {
+  border-bottom: 4px solid #bf2d37;
+};
